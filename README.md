@@ -1,4 +1,4 @@
-#.vim
+# .vim
 ## Install
 ```
 mv ~/.vim ~/.vim.bak
@@ -7,3 +7,7 @@ cd ~/.vim
 chmod +x setup.sh
 ./setup.sh
 ```
+
+- After that, type `:PluginInstall` in your vim.
+- Then, compile `ycm` manually
+- Enjoy it!
